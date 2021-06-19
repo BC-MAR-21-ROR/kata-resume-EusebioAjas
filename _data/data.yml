@@ -71,7 +71,6 @@ sidebar:
       link: # dejar en blanco
 
   software-development:
-
     - item: Design
       link: # dejar en blanco
 
@@ -192,7 +191,7 @@ skills:
     - name: C/C++
       level: 20%
     
-    - name: Herouku
+    - name: Heroku
       level: 20%
 
 # NO MODIFICAR
