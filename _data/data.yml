@@ -70,25 +70,6 @@ sidebar:
     - item: Ability to Take Criticism
       link: # dejar en blanco
 
-  software-development:
-    - item: Design
-      link: # dejar en blanco
-
-    - item: Coding
-      link: # dejar en blanco
-
-    - item: Implementation
-      link: # dejar en blanco
-
-    - item: Testing
-      link: # dejar en blanco
-
-    - item: Algorithms 
-      link: # dejar en blanco
-
-    - item: Documentation
-      link: # dejar en blanco
-
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
@@ -107,9 +88,9 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Ruby on Rails Web Developer
+  - role: BrightCoder 
     time: 2021 Mar - 2021 Jun 
-    Company: BrightCoders Academy - MagnaLabs
+    company: BrightCoders Academy - MagmaLabs
     details: |
       Ruby and Ruby on Rails training where I learned about Agile Development, 
       Test Driven Development (TDD), Continuous Integration (CI). 
