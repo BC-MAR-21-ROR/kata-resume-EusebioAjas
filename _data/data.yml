@@ -13,7 +13,7 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: eusebioajas6@gmail.com
-  phone: +529994731235
+  phone: +52-99-94-73-12-35
   website: # No agregar http://
   linkedin: Eusebio Ajas Santos
   github: EusebioAjas
@@ -40,6 +40,12 @@ sidebar:
     - item: Communication
       link: # dejar en blanco
 
+    - item: Accountability
+      link: # dejar en blanco
+
+    - item: Perseverance
+      link: # dejar en blanco
+
     - item: Problem solving
       link: # dejar en blanco
 
@@ -49,12 +55,49 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
+    - item: Creativity
+      link: # dejar en blanco
+
+    - item: Adaptability 
+      link: # dejar en blanco
+
+    - item: Time Management
+      link: # dejar en blanco
+    
+    - item: Patience
+      link: # dejar en blanco
+    
+    - item: Ability to Take Criticism
+      link: # dejar en blanco
+
+  software-development:
+    -item: Design
+      link: # dejar en blanco
+
+    - item: Coding
+      link: # dejar en blanco
+
+    - item: Implementation
+      link: # dejar en blanco
+
+    - item: Testing
+      link: # dejar en blanco
+
+    - item: Algorithms 
+      link: # dejar en blanco
+
+    - item: Documentation
+      link: # dejar en blanco
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Software Engineer student currently learning Ruby and Ruby on Rails. I'm very interested in learning new things. I really enjoy learning from people.
-
+    I'm currently studying Software Engineering, I am a person passionate and I love learning about 
+    programming and improve day by day. I like to learn new things. 
+    I love music and sharing my knowledges. 
+    One of my goals is to finish my current career and continue learning 
+    and gaining experience as well as putting my knowledge into practice in solving real world problems.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Software Engineer
@@ -62,13 +105,16 @@ educationcomplete:
     time: 2018 - current
     details: |
 
-  - degree: Applied Ruby on Rails Web Developer at BrightCoders
-    university: BrightCoders Academy
-    time: 2021 Mar - current
-    details: |
-
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
+  - role: Ruby on Rails Web Developer
+    time: 2021 Mar - 2021 Jun 
+    Company: BrightCoders Academy - MagnaLabs
+    details: |
+      Ruby and Ruby on Rails training where I learned about Agile Development, 
+      Test Driven Development (TDD), Continuous Integration (CI). 
+      The knowledge obtained was very useful when working on a project using this 
+      methodology and practices respectively.
   # - role: Lead Developer
   #   time: 2015 - Present
   #   company: Startup Hubs, San Francisco
@@ -105,7 +151,7 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-  
+
     - name: Java
       level: 60%
 
@@ -119,13 +165,35 @@ skills:
       level: 40%
 
     - name: Linux
+      level: 60%
+
+    - name: Bash/Shell
+      level: 20%
+
+    - name: Git/Github
+      level: 60%
+
+    - name: Ruby
+      level: 60%
+
+    - name: Ruby on Rails
+      level: 60%
+
+    - name: PostgreSQL
+      level: 40%
+
+    - name: MySQL
+      level: 40%
+
+    - name: Docker
       level: 40%
 
     - name: C/C++
       level: 20%
-   
-    - name: MySQL
+    
+    - name: Herouku
       level: 20%
+
 # NO MODIFICAR
 footer: >
   BrightCoders Academy
